@@ -1,6 +1,28 @@
 body{
-    color: brown;
+    background-color: #FFFFFF;
+    color: rgba(0, 0, 0, 0.8);
 }
-a {
-    color: inherit;
+
+.logo{
+    color: #000000;
 }
+.list{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+/* основний колір шрифту rgba(0, 0, 0, 0.8) */
+/* другорядний колір шрифту #000000 */
+
+/* колір посилань color: #18A0FB */
+/* додатковий колір посилань color: #FFFFFF; */
+
+/* основний фоновий колір #FFFFFF */
+/* другорядний колір фону #F5F5F5 */
